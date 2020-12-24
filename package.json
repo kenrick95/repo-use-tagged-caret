@@ -1,0 +1,9 @@
+{
+  "name": "repo-use-tagged-caret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@kenrick95/repo-tagged-caret": "^1.0.0--echo.42"
+  }
+}
